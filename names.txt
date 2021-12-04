@@ -1,10 +1,8 @@
 Aydin Mohandesi
 fatemeh kargar
 Razieh Khayyami
-Erfan Mohammadzadeh
 Hossein Allahbakhshi
 Meysam Rasouli
-Mina Shirinchi
 fateme askari
 Elham Kargari jam
 Shima Nesar
@@ -16,5 +14,7 @@ Reza Naghizadeh Germi
 Reza Naghizadeh Germi
 Ahmad Mahmoodian Darvishani
 Ahmad Mahmoodian Darvishani
-Hossein Allahbakhshi
 Erfan Mohammadzadeh
+Erfan Mohammadzadeh
+Mina Shirinchi
+Mina Shirinchi
