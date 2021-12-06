@@ -6,8 +6,6 @@ Hossein Allahbakhshi
 Ali kianfar
 Mohammad reza eslami
 Mina Bayat
-Amir Khalili
-Amir Khalili
 Masih Hajsaeedi
 Mojtaba Mansouri
 ----
@@ -35,3 +33,5 @@ Javad Asghari
 Javad Asghari
 Mahdi Moradkhani
 Mahdi Moradkhani
+Amir Khalili
+Amir Khalili
