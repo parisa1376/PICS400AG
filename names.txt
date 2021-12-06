@@ -6,11 +6,9 @@ Mohammad reza eslami
 Mina Bayat
 Amir Khalili
 Mojtaba Mansouri
-<<<<<<< HEAD
 Mina Bayat
-=======
 Sahar Rezaei
-----
+==================
 Asghar Mahmoudi
 Asghar Mahmoudi
 Sepideh Bagheri
@@ -41,4 +39,4 @@ fatemeh kargar
 fatemeh kargar
 Ali kianfar
 Ali kianfar
->>>>>>> 363884df8538f8d42474a0a8194dafd1c07a6f35
+Mina Bayat
