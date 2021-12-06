@@ -7,7 +7,6 @@ Mojtaba Mansouri
 Sahar Rezaei
 hosein moradi
 Kimia rajabalizade 
-Erfan Faridi
 Parya Golmoghani Azar
 Maryam Eslami
 ----
@@ -45,4 +44,5 @@ Ali kianfar
 Ali kianfar
 Mohammad reza eslami
 Mohammad reza eslami
+Erfan Faridi
 Erfan Faridi
