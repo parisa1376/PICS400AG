@@ -4,7 +4,7 @@ Mojtaba Mansouri
 Sahar Rezaei
 hosein moradi
 parisa pouyamanesh
-Mahnaz Asadi
+kosar hatami
 ----
 Amir Khalili
 Amir Khalili
@@ -54,5 +54,7 @@ Kimia rajabalizade
 Kimia rajabalizade 
 Parya Golmoghani Azar
 Parya Golmoghani Azar
-kosar hatami
-kosar hatami
+
+Mahnaz Asadi
+parisa pouyamanesh
+
